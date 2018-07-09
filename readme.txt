@@ -1,11 +1,1 @@
-my first git file
-
-the second edit
-
-hahaha
-
-the third edit
-
-okokok
-
-asdjalskdjalskdjalskjd
+这是我向github提交的第一份文件
